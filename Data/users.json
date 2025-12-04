@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1e901c4c-4f65-4482-8fb1-ecace6f23e2e",
+        "username": "arda",
+        "email": "habisarda@gmail.com",
+        "password": "Arda1234",
+        "Profile": {
+            "age": 18,
+            "height_cm": 174,
+            "weight_kg": 71.0,
+            "activity_level": "None"
+        },
+        "Goals": {
+            "goal_type": "lose weight",
+            "target_weight": 65.0,
+            "start_date": "04-12-2025",
+            "end_date": "Not Specified"
+        },
+        "created_at": "2025-12-04T15:39:04.942183"
+    }
+]
